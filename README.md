@@ -11,3 +11,4 @@ Loosely categorized links from all devices
 
   * [Elided Branches (Camille Fournier)](https://www.elidedbranches.com)
   * [Julia Evans](https://jvns.ca/)
+  * [Jim Nielson's Blog](https://blog.jim-nielsen.com)
